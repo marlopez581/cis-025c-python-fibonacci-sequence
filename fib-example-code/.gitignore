@@ -1,4 +1,4 @@
 # ignore pytest and coverage.py  cache files
-**/__pycache__
+**/__cis-025c-python-fibonacci-sequence__
 .pytest_cache
 .coverage 
